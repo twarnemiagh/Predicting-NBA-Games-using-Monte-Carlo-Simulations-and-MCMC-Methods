@@ -5,4 +5,4 @@ Click [here](https://github.com/twarnemiagh/Predicting-NBA-Games-using-Monte-Car
 
 Click [here](https://github.com/twarnemiagh/Predicting-NBA-Games-using-Monte-Carlo-Simulations-and-MCMC-Chains/blob/main/Duchemin_Meade_MATH341_Final_Project_Code.ipynb) to view code.  
 
-Click [here]() to view datasets.
+Click [here](https://github.com/twarnemiagh/Predicting-NBA-Games-using-Monte-Carlo-Simulations-and-MCMC-Chains/tree/main/Datasets) to view datasets.
